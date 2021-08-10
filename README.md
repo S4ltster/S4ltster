@@ -2,9 +2,11 @@
 - 👀 I’m interested in ... Reddit and Discord bots and how sites work in general
 - 🌱 I’m currently learning ... How Discord and Reddit bots function.
 
-![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true)
+![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true&count_private=true))
 
 [![My most used langauges lol](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ltster&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
