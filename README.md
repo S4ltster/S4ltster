@@ -4,7 +4,7 @@
 
 ![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true&count_private=true))
 
-[![My most used langauges lol](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ltster&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages lol](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ltster&theme=vue-dark&layout=compact&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
