@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @S4ltster 🧂🧂
 - One of the developers for Snoocockbot 
 - A developer of CockifyBot
+- Now a developer of risbot!
 - I use Python mainly, Tiny bit of C++ (Mainly just useless things like calculating time and stuff)
 - Coke anyday over Pepsi. Sorry Pepsi fans.
 - Xbox over Playstation. Sorry PS fans (PC is in another league imo)
