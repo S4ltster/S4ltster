@@ -13,6 +13,7 @@
 - Hence why your probably one of my friends looking at this right now!
 - Also im not creating a pull request for uranus @Deltara3
 - Trying to branch out to Rust
+- I might use Arch Btw
 
 ![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true&count_private=true))
 
