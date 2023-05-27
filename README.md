@@ -3,7 +3,7 @@
 - A developer of CockifyBot
 - Now a developer of risbot!
 - Coke anyday over Pepsi. Sorry Pepsi fans.
-- Xbox over Playstation. Sorry PS fans (PC is in another league imo)
+- Console is mid, sadge, Linux better.
 - Coke Zero is my favourite type of Coke to drink.
 - Python is my favourite Programming language to code in.
 - Everything you see on my profile is probably either useless to you or funny.
