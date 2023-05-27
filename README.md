@@ -2,7 +2,7 @@
 - One of the developers for Snoocockbot 
 - A developer of CockifyBot
 - Now a developer of risbot!
-- Coke anyday over Pepsi. Sorry Pepsi fans.
+- Water is better than anything.
 - Console is mid, sadge, Linux better.
 - Coke Zero is my favourite type of Coke to drink.
 - Python is my favourite Programming language to code in.
