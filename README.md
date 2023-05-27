@@ -10,7 +10,10 @@
 - Hence why your probably one of my friends looking at this right now!
 - Trying to branch out to Rust
 - I might use Arch Btw
-- If you see this I have quit, not returning sorry
+- If you see this I have not quit im just gassing you lol, not returning sorry
+- glass is ass
+- delta
+- I play tennis
 
 ![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true&count_private=true))
 
