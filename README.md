@@ -14,7 +14,7 @@
 - glass is ass
 - delta
 - I play tennis
-- I also weigh 1 gram
+- I also weigh 1 gram.
 
 ![based](https://www.serebii.net/swordshield/pokemon/380.png)
 
