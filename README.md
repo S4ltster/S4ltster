@@ -16,9 +16,7 @@
 - I play tennis
 - I also weigh 1 gram
 
-![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true&count_private=true))
-
-[![My most used languages lol](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ltster&theme=vue-dark&layout=compact&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+![based](https://www.serebii.net/swordshield/pokemon/380.png)
 
 
 
