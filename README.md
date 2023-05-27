@@ -14,6 +14,7 @@
 - glass is ass
 - delta
 - I play tennis
+- I also weigh 1 gram
 
 ![My stats lol](https://github-readme-stats.vercel.app/api?username=S4ltster&theme=vue-dark&show_icons=true&count_private=true))
 
