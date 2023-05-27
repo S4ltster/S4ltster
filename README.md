@@ -9,7 +9,7 @@
 - Everything you see on my profile is probably either useless to you or funny.
 - Hence why your probably one of my friends looking at this right now!
 - Trying to branch out to Rust
-- I might use Arch Btw
+- I do use Arch Btw
 - If you see this I have not quit im just gassing you lol, not returning sorry
 - glass is ass
 - delta
