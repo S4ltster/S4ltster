@@ -15,6 +15,7 @@
 - delta
 - I play tennis
 - I also weigh 1 gram.
+- Retired Windows User
 
 ![based](https://avatars.githubusercontent.com/u/87864112?v=4)
 
