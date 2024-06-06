@@ -16,7 +16,9 @@
 - I play tennis
 - I also weigh 1 gram.
 
-![based](https://www.serebii.net/swordshield/pokemon/380.png)
+![based](https://avatars.githubusercontent.com/u/87864112?v=4)
+
+- You can't suck a voice's dick, so its not gay" - Simpleflips
 
 
 
