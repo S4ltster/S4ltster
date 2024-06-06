@@ -18,7 +18,7 @@
 
 ![based](https://avatars.githubusercontent.com/u/87864112?v=4)
 
-- You can't suck a voice's dick, so its not gay" - Simpleflips
+- "You can't suck a voice's dick, so its not gay" - Simpleflips
 
 
 
